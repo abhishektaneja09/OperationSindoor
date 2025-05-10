@@ -1,0 +1,50 @@
+User-agent: APIs-Google
+Allow: /
+User-agent: AdsBot-Google-Mobile
+Allow: /
+User-agent: AdsBot-Google-Mobile
+Allow: /
+User-agent: AdsBot-Google
+Allow: /
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: Googlebot-Image/1.0
+Allow: /
+User-agent: Googlebot-News
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Video
+Allow: /
+User-agent: Googlebot-Video/1.0
+Allow: /
+User-agent: FeedFetcher-Google
+Allow: /
+User-agent: Google-Read-Aloud
+Allow: /
+User-agent: DuplexWeb-Google
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: googleweblight
+Allow: /
+User-agent: Storebot-Google
+Allow: /
+User-agent: Google-Site-Verification
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: BingPreview
+Allow: /
+User-agent: MicrosoftPreview
+Allow: /
+User-agent: Applebot
+Allow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+
